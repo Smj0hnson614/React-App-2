@@ -74,7 +74,8 @@ export default function Weather() {
         </a>
         is open-sourced on
         <a
-          href="https://github.com/Smj0hnson614/Vanilla-weather-app"
+          href="
+          https://github.com/Smj0hnson614/React-App-2"
           target="_blank"
           rel="noreferrer"
         >
@@ -82,7 +83,7 @@ export default function Weather() {
         </a>
         and hosted on
         <a
-          href="https://vanilla-weather-app1.netlify.app"
+          href="https://admirable-speculoos-103d06.netlify.app"
           target="_blank"
           rel="noreferrer"
         >
